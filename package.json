@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server2.js"
+    "start": "nodemon cred.js"
   },
   "keywords": [],
   "author": "",
@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "dotenv": "^17.0.0",
+    "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
 }
